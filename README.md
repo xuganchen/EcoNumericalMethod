@@ -1,7 +1,7 @@
 # EcoNumericalMethod
 ## Introduction
 
-The code for *Numerical Method in Economy* in Zhejiang University (Instructor: Prof. Eric R. Young).
+The code for **Numerical Method in Economy** in Zhejiang University (Instructor: Prof. Eric R. Young).
 
 The source code in the *./src/* fodler, and *./figure/* include the figures coming from the code.
 
