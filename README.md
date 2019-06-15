@@ -1,7 +1,7 @@
 # EcoNumericalMethod
 ## Introduction
 
-The code for *Numerical Method in Economy* in Zhejiang University (Instructor: Prof. Eric R. Young).
+The code for **Numerical Method in Economy** in Zhejiang University (Instructor: Prof. Eric R. Young).
 
 The source code in the *./src/* fodler, and *./figure/* include the figures coming from the code.
 
@@ -17,6 +17,7 @@ Of course, all of this code is based on the *MATLAB* code given by the Prof. Eri
 * zje_dp_discrete.py: discrete dynamic programming
 * growth_model_zje_run.py: using first-, second-  and third- order solutions to solve growth model (Now, I only finish the first-order solution, and I will finish the remain part in the future.)
 * LQ1.py: compute deterministic LQ problem and compute Euler equation errors
+<<<<<<< HEAD
 
 ## More details
 
