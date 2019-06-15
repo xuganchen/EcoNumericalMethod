@@ -2,6 +2,7 @@
 /zju_programs
 *.m
 *.ipynb
+.DS_store
 
 
 # Byte-compiled / optimized / DLL files

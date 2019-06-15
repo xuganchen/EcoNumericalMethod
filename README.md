@@ -15,5 +15,5 @@ Of course, all of this code is based on the MATLAB code given by the Prof. Eric 
 * zje_dp_pchip.py: dynamic programming with pchip
 * zje_dp_pchip2.py: dynamic programming with pchip
 * zje_dp_discrete.py: discrete dynamic programming
-* growth_model_zje_run.py: using first-, second-  and third- order solutions to solve growth model
+* growth_model_zje_run.py: using first-, second-  and third- order solutions to solve growth model (Now, I only finish the first-order solution, and I will finish the remain part in the future.)
 * LQ1.py: compute deterministic LQ problem and compute Euler equation errors
